@@ -12,6 +12,16 @@ This project focuses on converting a trained Random Forest model into a
 <b>deployable and reusable system</b>, following industry-level ML practices.
 </p>
 
+<h2>🚀 Live Deployment</h2>
+<p>
+The deployed Random Forest application can be accessed here:
+</p>
+<p>
+<a href="https://random-forest-model-deployment.onrender.com" target="_blank">
+https://random-forest-model-deployment.onrender.com
+</a>
+</p>
+
 <hr>
 
 <h2>🎯 Project Objectives</h2>
@@ -31,9 +41,9 @@ This project focuses on converting a trained Random Forest model into a
   <li><b>Pandas & NumPy</b> – Data preprocessing and analysis</li>
   <li><b>Scikit-learn</b> – Random Forest model training</li>
   <li><b>Flask</b> – Backend framework for model serving</li>
-  <li><b>HTML & CSS</b> – Frontend interface (if applicable)</li>
+  <li><b>HTML & CSS</b> – Frontend interface</li>
   <li><b>Pickle / Joblib</b> – Model serialization</li>
-  <li><b>Render / Local Server</b> – Deployment environment</li>
+  <li><b>Render</b> – Cloud deployment platform</li>
 </ul>
 
 <hr>
@@ -85,7 +95,7 @@ This project focuses on converting a trained Random Forest model into a
 <h3>6️⃣ Prediction Output</h3>
 <ul>
   <li>Model generates predictions in real time</li>
-  <li>Results are displayed via UI or returned as responses</li>
+  <li>Results are displayed via the web interface</li>
   <li>Ensures practical usability of the ML model</li>
 </ul>
 
@@ -102,53 +112,9 @@ This project focuses on converting a trained Random Forest model into a
 
 <hr>
 
-<h2>📌 Why Random Forest?</h2>
-<p>
-Random Forest is a powerful ensemble algorithm that combines multiple decision
-trees to improve prediction accuracy, reduce variance, and handle complex datasets
-more effectively.
-</p>
-
-<hr>
-
-<h2>🌍 Real-World Applications</h2>
-<ul>
-  <li>Credit risk prediction</li>
-  <li>Fraud detection</li>
-  <li>Medical diagnosis systems</li>
-  <li>Customer churn prediction</li>
-  <li>Recommendation systems</li>
-</ul>
-
-<hr>
-
-<h2>🚀 Future Enhancements</h2>
-<ul>
-  <li>Hyperparameter tuning using GridSearchCV</li>
-  <li>Add a complete web-based UI</li>
-  <li>Deploy as a live web application</li>
-  <li>Expose REST API endpoints</li>
-  <li>Dockerize the application</li>
-</ul>
-
-<hr>
-
 <h2>📌 Final Summary</h2>
 <p>
 <b>Random-Forest-Model-Deployment</b> is a complete Machine Learning project that
 demonstrates how an ensemble learning model can be trained, evaluated, and deployed
-for real-world use. It showcases both theoretical understanding and practical
-deployment skills, making it an excellent portfolio project.
+as a real-world web application.
 </p>
-
-<h2>🚀 Live Deployment</h2>
-<p>
-The Random Forest model has been deployed and is accessible online:
-</p>
-<p>
-<a href="YOUR_DEPLOYED_LINK_HERE" target="_blank">
-YOUR_DEPLOYED_LINK_HERE
-</a>
-</p>
-
-<hr>
