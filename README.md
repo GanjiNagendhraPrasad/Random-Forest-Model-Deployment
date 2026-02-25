@@ -140,3 +140,15 @@ demonstrates how an ensemble learning model can be trained, evaluated, and deplo
 for real-world use. It showcases both theoretical understanding and practical
 deployment skills, making it an excellent portfolio project.
 </p>
+
+<h2>🚀 Live Deployment</h2>
+<p>
+The Random Forest model has been deployed and is accessible online:
+</p>
+<p>
+<a href="YOUR_DEPLOYED_LINK_HERE" target="_blank">
+YOUR_DEPLOYED_LINK_HERE
+</a>
+</p>
+
+<hr>
